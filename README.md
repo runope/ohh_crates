@@ -28,3 +28,4 @@ Record frequently-used rust crates
 [rand](https://crates.io/crates/rand) - Random number generators and other randomness functionality. <br>
 [failure](https://crates.io/crates/failure) - Experimental error handling abstraction. <br>
 [anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error <br>
+[thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types <br>
