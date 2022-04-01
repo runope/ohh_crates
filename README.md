@@ -27,3 +27,4 @@ Record frequently-used rust crates
 [regex](https://crates.io/crates/regex) - An implementation of regular expressions for Rust. <br>
 [rand](https://crates.io/crates/rand) - Random number generators and other randomness functionality. <br>
 [failure](https://crates.io/crates/failure) - Experimental error handling abstraction. <br>
+[anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error <br>
