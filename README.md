@@ -23,9 +23,11 @@ Record frequently-used rust crates
 ## concurrent
 [once_cell](https://crates.io/crates/once_cell) - Single assignment cells and lazy values. <br>
 
-## other
-[regex](https://crates.io/crates/regex) - An implementation of regular expressions for Rust. <br>
-[rand](https://crates.io/crates/rand) - Random number generators and other randomness functionality. <br>
+## error handle
 [failure](https://crates.io/crates/failure) - Experimental error handling abstraction. <br>
 [anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error <br>
 [thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types <br>
+
+## other
+[regex](https://crates.io/crates/regex) - An implementation of regular expressions for Rust. <br>
+[rand](https://crates.io/crates/rand) - Random number generators and other randomness functionality. <br>
