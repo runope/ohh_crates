@@ -31,3 +31,6 @@ Record frequently-used rust crates
 ## other
 [regex](https://crates.io/crates/regex) - An implementation of regular expressions for Rust. <br>
 [rand](https://crates.io/crates/rand) - Random number generators and other randomness functionality. <br>
+
+## tools
+[cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line. <br>
