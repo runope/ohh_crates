@@ -34,3 +34,9 @@ Record frequently-used rust crates
 
 ## tools
 [cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line. <br>
+
+## funny
+[starship](https://starship.rs/guide/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! <br>
+[ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore <br>
+[fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' <br>
+[hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool. <br>
