@@ -35,6 +35,9 @@ Record frequently-used rust crates
 ## tools
 [cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line. <br>
 
+## Protocol
+[s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
+
 ## funny
 [starship](https://starship.rs/guide/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! <br>
 [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore <br>
