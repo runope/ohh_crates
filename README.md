@@ -37,6 +37,7 @@ Record frequently-used rust crates
 
 ## tools
 [cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line. <br>
+[Tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly. <br>
 
 ## Protocol
 [s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
