@@ -13,6 +13,9 @@ Record frequently-used rust crates
 [proptest](https://crates.io/crates/proptest) - Hypothesis-like property-based testing and shrinking. <br>
 [test-case](https://crates.io/crates/test-case) - provides procedural macro attribute that generates parametrized test instances. <br>
 
+## time
+[chrono](https://github.com/chronotope/chrono) - Date and time library for Rust. <br>
+
 ## log
 [log](https://crates.io/crates/log) - A lightweight logging facade for Rust. <br>
 [tracing](https://crates.io/crates/tracing) - Application-level tracing for Rust. <br>
