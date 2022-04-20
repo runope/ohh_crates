@@ -22,6 +22,7 @@ Record frequently-used rust crates
 
 ## HTTP
 [reqwest](https://crates.io/crates/reqwest) - higher level HTTP client library. <br>
+[Url](https://docs.rs/url/latest/) - URL parser for Rust. <br>
 
 ## concurrent
 [once_cell](https://crates.io/crates/once_cell) - Single assignment cells and lazy values. <br>
