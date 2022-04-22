@@ -27,6 +27,7 @@ Record frequently-used rust crates
 ## concurrent
 [once_cell](https://crates.io/crates/once_cell) - Single assignment cells and lazy values. <br>
 [async_trait](https://crates.io/crates/async-trait) - Type erasure for async trait methods. <br>
+[async-recursion](https://crates.io/crates/async-recursion) - Recursion for async functions. <br>
 
 ## error handle
 [failure](https://crates.io/crates/failure) - Experimental error handling abstraction. <br>
