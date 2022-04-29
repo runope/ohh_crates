@@ -51,6 +51,7 @@ Record frequently-used rust crates
 [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' <br>
 [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool. <br>
 [Atuin](https://github.com/ellie/atuin) - Magical shell history. <br>
+[xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests. <br>
 
 ## db
 [tensorBase](https://github.com/tensorbase/tensorbase) - TensorBase is a new big data warehousing with modern efforts. <br>
